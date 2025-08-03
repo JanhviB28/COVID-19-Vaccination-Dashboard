@@ -13,7 +13,7 @@ Healthcare officials and policy makers need clear, interactive visualizations to
 # Tools & Technologies
 - Data Cleaning: Microsoft Excel
 - Data Visualization: Power BI Desktop
-- Data Source: 
+- Data Source: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress
 - Version Control: Git/GitHub
 
 ## Key Features
@@ -39,10 +39,10 @@ Healthcare officials and policy makers need clear, interactive visualizations to
 ## 📊 Dashboard Screenshots
 
 ### Global Overview
-![Global Overview](Country Analysis.png)
+![Global Overview](Global_Overview.png)
 
 ### Country Analysis
-![Country Analysis](Country Analysis.png)
+![Country Analysis](Country_Analysis.png)
 
 ## 📁 Project Structure
 ├── data/                 # Raw and cleaned datasets
