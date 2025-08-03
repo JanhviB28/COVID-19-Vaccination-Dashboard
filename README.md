@@ -39,10 +39,10 @@ Healthcare officials and policy makers need clear, interactive visualizations to
 ## 📊 Dashboard Screenshots
 
 ### Global Overview
-![Global Overview](global_overview.png)
+![Global Overview](Country Analysis.png)
 
 ### Country Analysis
-![Country Analysis](country_analysis.png)
+![Country Analysis](Country Analysis.png)
 
 ## 📁 Project Structure
 ├── data/                 # Raw and cleaned datasets
