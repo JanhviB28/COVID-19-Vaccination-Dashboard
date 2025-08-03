@@ -45,7 +45,7 @@ Healthcare officials and policy makers need clear, interactive visualizations to
 ![Country Analysis](Country_Analysis.png)
 
 ### Demo Video
-![Watch the Demo on Google Drive](https://drive.google.com/file/d/1fn8VSABBWoYBALMtvRIunTaR86zf1Izy/view?usp=sharing)
+[Watch the Demo on Google Drive](https://drive.google.com/file/d/1fn8VSABBWoYBALMtvRIunTaR86zf1Izy/view?usp=sharing)
 
 ## 📁 Project Structure
 ├── data/                 # Raw and cleaned datasets
