@@ -34,7 +34,7 @@ Healthcare officials and policy makers need clear, interactive visualizations to
 - Nordic countries achieved highest vaccination rates (80-90%)
 - Small island nations had fastest initial rollout
 - Global vaccination pace peaked in Q2 2021
-- Regional disparities* remain significant across continents
+- Regional disparities remain significant across continents
 
 ## 📊 Dashboard Screenshots
 
