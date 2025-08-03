@@ -44,7 +44,11 @@ Healthcare officials and policy makers need clear, interactive visualizations to
 ### Country Analysis
 ![Country Analysis](Country_Analysis.png)
 
+### Demo Video
+![Watch the Demo on Google Drive](https://drive.google.com/file/d/1fn8VSABBWoYBALMtvRIunTaR86zf1Izy/view?usp=sharing)
+
 ## 📁 Project Structure
 ├── data/                 # Raw and cleaned datasets
 ├── dashboard/           # Power BI files
-├── screenshots/         # Dashboard images & demo video
+├── Country_Analysis/         # Dashboard image
+├── Global_Overview/         # Dashboard image
